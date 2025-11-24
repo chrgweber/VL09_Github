@@ -14,3 +14,5 @@ f = 2 * e
 g = f - a
 # Command 8
 h = 2 * b
+# Command 9
+s = h - a
