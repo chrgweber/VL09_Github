@@ -12,3 +12,5 @@ e = d - a
 f = 2 * e
 # Command 7
 g = f - a
+# Command 8
+h = 2 * b
