@@ -2,3 +2,5 @@
 a = 1
 # Command 2
 b = 2
+# Command 3
+c = 3
