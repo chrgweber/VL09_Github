@@ -10,3 +10,5 @@ d = a + b
 e = d - a
 # Command 6
 f = 2 * e
+# Command 7
+g = f - a
