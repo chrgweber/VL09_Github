@@ -16,3 +16,5 @@ g = f - a
 h = 2 * b
 # Command 9
 s = h - a
+# Command 10
+t = s + 2 * c
