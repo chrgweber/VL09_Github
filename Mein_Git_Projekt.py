@@ -8,3 +8,5 @@ c = 2
 d = a + b
 # Command 5
 e = d - a
+# Command 6
+f = 2 * e
